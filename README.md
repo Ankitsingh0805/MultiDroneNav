@@ -5,8 +5,7 @@ This project implements **Multi-Agent Reinforcement Learning (MARL)** using the 
 ---
 
 ## 📹 Demo
-
-<video src="https://github.com/Ankitsingh0805/MultiDroneNav/blob/main/Render.mp4" controls autoplay loop width="100%"></video>
+For the demo visualization you can check render.mp4 in the root folder .
 
 
 ---
