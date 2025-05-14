@@ -1,0 +1,7 @@
+numpy==1.26.4
+gymnasium==0.29.1
+pettingzoo==1.24.3
+torch==2.2.1
+matplotlib==3.8.2
+tqdm==4.66.1
+panda3d==1.10.15

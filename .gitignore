@@ -1,0 +1,67 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyTorch model files
+*.pt
+*.pth
+
+# Logs and outputs
+*.log
+logs/
+output/
+render/
+
+# Data files
+*.npz
+*.pkl
+*.csv
+*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment config
+.env
+.env.*
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+
+# Video or visualization outputs
+*.webm
+*.mp4
+*.avi
+
+# Test cache
+.pytest_cache/
+.cache/
+
+# Panda3D temporary files
+*.bam
+*.egg
+
+# Misc
+*.bak
+*.tmp
